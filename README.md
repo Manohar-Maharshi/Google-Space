@@ -3,4 +3,3 @@
 [Routify](https://routify.dev)  
 [Vite](https://vitejs.dev)  
 [WindiCSS](https://windicss.org/)  
-[TypeScript](https://www.typescriptlang.org)
